@@ -102,7 +102,7 @@ const mongoose = require("mongoose"); // mongoose를 요청
 
 // 데이터베이스 연결 설정
 mongoose.connect(
-  "mongodb+srv://ut-node:cherry0909!@ut-node.w4u3y6k.mongodb.net/?retryWrites=true&w=majority&appName=ut-node",
+  "mongodb+srv://jayojs01:jay1004@cluster0.lusnslh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 );
 
 // 연결되면 메시지를 보냄
